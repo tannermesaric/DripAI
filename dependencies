@@ -1,0 +1,11 @@
+pip install opencv-python torch clip-by-openai gtts pygame numpy pillow ultralytics
+
+
+opencv-python → Provides cv2 for computer vision tasks.
+torch → PyTorch, required for deep learning operations.
+clip-by-openai → The CLIP model from OpenAI.
+gtts → Google Text-to-Speech library.
+pygame → Used for handling audio (mixer).
+numpy → Essential for numerical computations.
+pillow → Provides PIL for image processing.
+ultralytics → Required for YOLO (You Only Look Once) object detection.
