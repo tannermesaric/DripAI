@@ -1,6 +1,6 @@
 torch==2.0.0
 torchvision==0.15.1
-gradio==3.23.0
+gradio==3.30
 git+https://github.com/openai/CLIP.git
 ultralytics
 gTTS==2.2.4
