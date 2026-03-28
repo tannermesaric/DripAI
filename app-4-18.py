@@ -1,3 +1,4 @@
+#author Tanner Mesaric
 import gradio as gr
 import torch
 import clip
